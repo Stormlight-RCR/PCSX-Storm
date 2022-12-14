@@ -1,0 +1,16 @@
+This is a Pre Built Version of PCSX-Storm Made for RC Revenge Pro
+
+This version is designed to keep loads consistent as well as keep any sort of cheating out of the question.
+
+Updates to this package may arive over time.
+
+You must obtaion your Own Bios for the PS2 via dumping of the original console or download
+
+
+PRE BUILT VERSION: V1.1.4b / TITLE UPDATE 1 (4th December 2022)
+
+Update: 
+
+- Updated Library read function (Just to correctly format names)
+- GPU mistype (Doesn't effect anything just adds the correct name)
+- Fixed Directory
